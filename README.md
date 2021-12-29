@@ -1,4 +1,0 @@
-# Resources
-
-![image-20211229223713478](img/README/image-20211229223713478.png)
-
